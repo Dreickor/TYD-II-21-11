@@ -1,0 +1,54 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do Partec_run_msim_gate_vhdl.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {Partec.vho}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cycloneiii_atom_pack
+# -- Loading package cycloneiii_components
+# -- Compiling entity Partec
+# -- Compiling architecture structure of Partec
+# 
+# vcom -93 -work work {C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity parte_c_tb
+# -- Compiling architecture comp of parte_c_tb
+# ** Warning: [4] C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd(83): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd(86): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd(92): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# 
+# vsim -t 1ps -L altera -L cycloneiii -L gate_work -L work -voptargs="+acc"  parte_c_tb
+# vsim -L altera -L cycloneiii -L gate_work -L work -voptargs=\"+acc\" -t 1ps parte_c_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.parte_c_tb(comp)
+# ** Warning: (vsim-3473) Component instance "uut : Block1" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /parte_c_tb File: C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit 
+# Break in Process clock_process at C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd line 77

@@ -1,0 +1,11 @@
+|Partec
+a => res.IN0
+a => cout.IN0
+b => res.IN1
+b => cout.IN1
+cin => res.IN1
+cin => cout.IN1
+res <= res.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

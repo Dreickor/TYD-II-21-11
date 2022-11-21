@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Usuario\OneDrive\Escritorio\facu-main\TEST-main\Partec
+Eparte_c_tb
+Z1 w1668989403
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Usuario\OneDrive\Escritorio\facu-main\TEST-main\Partec
+Z5 8C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd
+Z6 FC:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd
+l0
+L4
+VKg?HVMgEb6J4d=U]C8oPA2
+!s100 IX8VIQWkBQk_BLb>cZYnA1
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1668989838.371000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd|
+Z10 !s107 C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/parte_c_tb.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Acomp
+R2
+R3
+DEx4 work 10 parte_c_tb 0 22 Kg?HVMgEb6J4d=U]C8oPA2
+l51
+L6
+Vc?Z7DQeG1zPzH64;zX?Jf3
+!s100 kRQCPdXJPL]<1FO=ijQgJ0
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Epartec
+Z13 w1668795165
+R2
+R3
+R4
+Z14 8C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/Partec.vhd
+Z15 FC:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/Partec.vhd
+l0
+L4
+VbX>=E_Cb4L4_K[iN?EDim2
+R7
+31
+Z16 !s108 1668989838.277000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/Partec.vhd|
+Z18 !s107 C:/Users/Usuario/OneDrive/Escritorio/facu-main/TEST-main/Partec/Partec.vhd|
+R11
+R12
+!s100 =k6MlB3>`B7A?7cON]hV;2
+!i10b 1
+Asumador
+R2
+R3
+DEx4 work 6 partec 0 22 bX>=E_Cb4L4_K[iN?EDim2
+l11
+L10
+VzT3P@_fXRW;^OE]KmC?M30
+R7
+31
+R16
+R17
+R18
+R11
+R12
+!s100 6SJi`ez23hF3dV8Ti<JGf2
+!i10b 1
